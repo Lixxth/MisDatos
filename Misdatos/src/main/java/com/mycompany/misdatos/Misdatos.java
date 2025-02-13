@@ -12,6 +12,7 @@ public class Misdatos {
 
     public static void main(String[] args) {
         System.out.println("Lizbeth Guadlupe Hernandez Rebolledo");
-          System.out.println("Lizbeth Guadlupe Hernandez Rebolledo");
+          System.out.println("19012390");
+            System.out.println("ingenieria en sistemas computacionales");
     }
 }
